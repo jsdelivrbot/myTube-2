@@ -35,6 +35,7 @@ class App extends Component{
         return(
         <div>
             <div className="page-title">MyTube</div>
+            <div className="page-description">Don't spend time sifting through tons videos. Easily find the <b> top rated </b> videos of your interest!</div>
             <SearchBar
                 onSearchTermChange={videoSearch}/>
             <VideoDetail 
