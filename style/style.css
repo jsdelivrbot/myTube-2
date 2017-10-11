@@ -1,3 +1,4 @@
+
 .search-bar{
     margin: 20px; 
     text-align: center;
@@ -25,14 +26,15 @@
 }
 
 .list-group-item:hover{
-    background-color: #eee;
+    background-color: lightpink;
 }
 .page-title{
     text-align: center;
-    font-size: 100px;
+    text-shadow: 4px 4px lightpink;
+    font-size: 140px;
     color: #56b7d0;
-    background: #dce2db;
-    font-family: 'Raleway', sans-serif;
+    background: lightgrey;
+    font-family: 'Anton', sans-serif;
 }
 .page-description{
     text-align: center;
